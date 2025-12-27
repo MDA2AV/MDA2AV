@@ -1,8 +1,7 @@
 ## Hi, I'm Diogo Martins 👋
 From Portugal.
 
-I am an engineer between software and hardware.
-I mainly work with C, C# and Python.
+I am an engineer between software and hardware and mainly work with C, C# and Python.
 
 My focuses are:
  - High performance networking
