@@ -1,6 +1,6 @@
 ## Hi, I'm Diogo Martins 👋
 From Portugal.
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=MDA2AV&style=flat-square)
 
 I am an engineer between software and hardware and mainly work with C, C# and Python.
 
