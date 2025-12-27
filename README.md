@@ -2,6 +2,7 @@
 From Portugal.
 
 ![Profile views](https://komarev.com/ghpvc/?username=MDA2AV&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=MDA2AV)
 
 I am an engineer between software and hardware and mainly work with C, C# and Python.
 
