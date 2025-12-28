@@ -3,7 +3,7 @@ From Portugal.
 
 ![Views](https://komarev.com/ghpvc/?username=MDA2AV)
 
-I am an engineer between software and hardware and mainly work with C, C# and Python.
+I am an engineer between software and hardware and mainly work with C, C# and Python. My projects are focused on trading ergonomics for performance and customization freedom.
 
 My focuses are:
  - High performance networking
