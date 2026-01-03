@@ -1,7 +1,7 @@
 ## Hi, I'm Diogo Martins 👋
 From Portugal.
 
-I am an engineer between software and hardware and mainly work with C3, C, C# and Python. My projects are focused on trading ergonomics for performance and customization freedom.
+I am an engineer between software and hardware and mainly work with C, C3, C# and Python. My projects are focused on trading ergonomics for performance and customization freedom.
 
 My focuses are:
  - High performance networking
