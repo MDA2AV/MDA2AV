@@ -1,8 +1,6 @@
 ## Hi, I'm Diogo Martins 👋
 From Portugal.
 
-![Views](https://komarev.com/ghpvc/?username=MDA2AV)
-
 I am an engineer between software and hardware and mainly work with C, C# and Python. My projects are focused on trading ergonomics for performance and customization freedom.
 
 My focuses are:
@@ -14,5 +12,3 @@ My focuses are:
 Also interested in learning more about:
  - Cybersecurity
  - 3D Rendering
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDA2AV&show_icons=true&theme=gruvbox)
