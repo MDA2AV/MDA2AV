@@ -12,5 +12,3 @@ My focuses are:
 Also interested in learning more about:
  - Cybersecurity
  - 3D Rendering
-
-<img src="https://github-readme-stats.vercel.app/api?username=MDA2AV&show_icons=true&count_private=true" alt="Kaliumhexacyanoferrat" />
