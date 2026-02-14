@@ -13,4 +13,4 @@ Also interested in learning more about:
  - Cybersecurity
  - 3D Rendering
 
-<img src="https://github-readme-stats.vercel.app/api?username=MDA2AV&show_icons=true&count_private=true" alt="MDA2AV" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MDA2AV&show_icons=true&theme=gruvbox)
