@@ -22,13 +22,15 @@ Also interested in learning more about:
 
 **[C#]**
 
-- **Wired.IO** — Lightweight C# HTTP/x web framework for performance-critical apps and rapid development (ASP.NET Core–style API).
+- **Wired.IO** — Lightweight C# HTTP/x web framework for performance-critical apps (ASP.NET Core–style API).
+- **Http11Probe** — Platform for **HTTP/1.1 compliance** testing.
+- **HttpArena** — Platform for **HTTP/1.1 benchmarking**.
+
+- **Glyph11** — High-performance C# **HTTP/1.1 parser** library.
+  
 - **zerg** — Low-level C# TCP engine built on **io_uring** using **liburing**.
 - **terraform** — Low-level C# TCP engine built on **io_uring** (no liburing).
 - **Unhinged** — Low-level C# TCP engine built on **epoll**.
-- **Http11Probe** — Platform for **HTTP/1.1 compliance** testing.
-- **HttpArena** — Platform for **HTTP/1.1 benchmarking**.
-- **Glyph11** — High-performance C# **HTTP/1.1 parser** library.
 
 ## I also contribute to
 
