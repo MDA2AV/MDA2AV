@@ -13,25 +13,18 @@ Also interested in learning more about:
  - Cybersecurity
  - 3D Rendering
 
-## Projects I work on:
-Wired.IO     - C# Http/x lighteight web framework for performance critical aplications rapid developments (similar API to aspnet core
+## Projects I work on
 
-zerg         - C# low level TCP io_uring engine using liburing
+- **Wired.IO** — Lightweight C# HTTP/x web framework for performance-critical apps and rapid development (ASP.NET Core–style API).
+- **zerg** — Low-level C# TCP engine built on **io_uring** using **liburing**.
+- **terraform** — Low-level C# TCP engine built on **io_uring** (no liburing).
+- **Unhinged** — Low-level C# TCP engine built on **epoll**.
+- **ringzero** — Low-level **C** TCP engine built on **io_uring** using **liburing**.
+- **gcannon** — **C** HTTP load generator built on **io_uring**.
+- **Http11Probe** — Platform for **HTTP/1.1 compliance** testing.
+- **HttpArena** — Platform for **HTTP/1.1 benchmarking**.
+- **Glyph11** — High-performance C# **HTTP/1.1 parser** library.
 
-terraform    - C# low level TCP io_uring engine - no liburing
+## I also contribute to
 
-Unhinged     - C# low level TCP epoll engine
-
-ringzero     - C low level TCP io_uring engine using liburing
-
-gcannon      - C Http load generator using io_uring
-
-Http11Probe  - Platform for Http 1.1 compliance
-
-HttpArena    - Platform for Http 1.1 benchmarking
-
-Glyph11      - C# High performance Http 1.1 parsing library
-
-also contibute to:
-
-GenHTTP
+- **GenHTTP**
