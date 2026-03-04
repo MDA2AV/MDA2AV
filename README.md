@@ -12,3 +12,17 @@ My focuses are:
 Also interested in learning more about:
  - Cybersecurity
  - 3D Rendering
+
+## Projects I work on:
+Wired.IO     - C# Http/x lighteight web framework for performance critical aplications rapid developments (similar API to aspnet core)
+zerg         - C# low level TCP io_uring engine using liburing
+terraform    - C# low level TCP io_uring engine - no liburing
+Unhinged     - C# low level TCP epoll engine
+ringzero     - C low level TCP io_uring engine using liburing
+gcannon      - C Http load generator using io_uring
+Http11Probe  - Platform for Http 1.1 compliance
+HttpArena    - Platform for Http 1.1 benchmarking
+Glyph11      - C# High performance Http 1.1 parsing library
+
+also contibute to:
+GenHTTP
