@@ -35,5 +35,3 @@ Also interested in learning more about:
 ## I also contribute to
 
 - [**GenHTTP**](https://github.com/Kaliumhexacyanoferrat/GenHTTP)
-
-<img src="https://github-readme-stats.vercel.app/api?username=MDA2AV&show_icons=true&count_private=true" alt="MDA2AV" />
