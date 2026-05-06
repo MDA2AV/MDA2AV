@@ -30,6 +30,7 @@ Also interested in learning more about:
 - **Glyph11** — High-performance C# **HTTP/1.1 parser** library.
 - **zerg** — Low-level C# TCP engine built on **io_uring** using **liburing**.
 - **terraform** — Low-level C# TCP engine built on **io_uring** (no liburing).
+- **dogrider** — Fastest websocket server in the world.
 - **Unhinged** — Low-level C# TCP engine built on **epoll**.
 
 ## I also contribute to
