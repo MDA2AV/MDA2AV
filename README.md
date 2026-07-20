@@ -1,12 +1,8 @@
  - High performance networking
- - Linux embedded systems
- - NIC Firmware
- - Analog and digital electronics design
-
-Also interested in
- - Cybersecurity
- - 3D Rendering
-
+      - HTTP/1/3 Load generators
+      - io_uring runtimes
+      - Application web frameworks
+ - Benchmarking and compliance platforms for networking and HTTP in generawl
 
 Currently working on HTTP/3 & QUIC support for .NET 
 
